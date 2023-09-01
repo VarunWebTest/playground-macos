@@ -17,5 +17,5 @@ Contact me by:
 
 ## Résumé
 
-- Normal version: [English in Pdf](https://drive.google.com/file/d/12zOhcqq6zOjL6iY6JmPEemqItruwHix_/view?usp=sharing) or [In Html](resume.html)
+- Normal version: [English in Pdf](https://drive.google.com/file/d/12zOhcqq6zOjL6iY6JmPEemqItruwHix_/view?usp=sharing) or [In Html](public/markdown/resume.html)
 - Interesting version: [varunchaudhary.in](https://www.varunchaudhary.in) / [resume.varunchaudhary.in](https://drive.google.com/file/d/1qaaXyvYFaw0v7BNeEIlOLDyIOny9C2sd/view?usp=sharing)
